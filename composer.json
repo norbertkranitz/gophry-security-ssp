@@ -1,5 +1,5 @@
 {
-    "name": "norbertkranitz/gophry-dto-ssp",
+    "name": "norbertkranitz/gophry-security-ssp",
     "require": {
 		"norbertkranitz/gophry-core-ssp": "dev-master",
 		"norbertkranitz/gophry-security": "dev-master"
